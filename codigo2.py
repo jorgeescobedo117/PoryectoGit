@@ -1,3 +1,3 @@
 apellido="Medina"
 apodo ="Merok"
-print("hola"+ Apellido+apodo)
+print("hola"+ apellido+apodo)
