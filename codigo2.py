@@ -1,2 +1,2 @@
-nombre="JOrge Escobedo MEdina "
-print("hola"+ nombre)
+apellido="Medina"
+print("hola"+ Apellido)
