@@ -1,6 +1,5 @@
 nombre="JOrge"
-apellido="escobedo"
-print("hola"+ nombre+apellido)
-apellido="Medina"
+apellidop="escobedo"
+apellidom="Medina"
 apodo ="Merok"
-print("hola"+ apellido+apodo)
+
