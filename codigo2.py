@@ -1,2 +1,2 @@
-nombre="escobedo"
+nombre="JOrge Escobedo MEdina "
 print("hola"+ nombre)
